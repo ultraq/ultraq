@@ -1,10 +1,8 @@
 ### 👋
 
-I'm a front-end developer at [Upstock](https://www.upstock.app/); writer and baker (and a whole host of other things I've failed to list) in my spare time, based in the tiny little country of New Zealand.
+I'm a full-stack developer, working in mostly React/TypeScript front-ends with C#/.NET back-ends, creating CI/CD pipelines with GitHub Actions and deploying to AWS.
 
-I'm a computer programmer by trade; my career having started in server-side Java development, though I now spend my days with everything HTML, CSS, and JavaScript.
-
-I also do a bit of coding in my spare time, including [a classic Command & Conquer remake project written in Groovy](https://github.com/ultraq/redhorizon), occassional contributions to the [Thymeleaf](https://www.thymeleaf.org/) project, and a whole host of smaller projects, all of which you can find on my GitHub profile which you're probably looking at right now!
+I also work on open source and hobby projects, which is what you'll find here on my GitHub, and the highlights are in the Pinned repositories section just below:
 
 <!--
 **ultraq/ultraq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
